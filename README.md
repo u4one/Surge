@@ -2,4 +2,4 @@
 
 ### 简介
 
-由 lhie1 [Rules/Surge/Surge 3](https://github.com/lhie1) 修改。
+由  [@lhie1](https://github.com/lhie1) [Rules/Surge/Surge 3]修改。
