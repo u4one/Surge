@@ -1,7 +1,7 @@
 /*
 VSCO unlock vip
 Surge4：
-http-response ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js
+http-response ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/u4one/Rules/master/Surge%203/Scripts/vsco.js
 Surge MITM = vsco.co
 */
 
