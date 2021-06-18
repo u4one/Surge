@@ -1,5 +1,0 @@
-#!name=wifi suspend
-#!desc=指定wifi不进行代理，但是Script与Module生效
-
-[Script]
-wifi_suspend = debug=1,script-path=https://raw.githubusercontent.com/u4one/Rules/master/Surge%203/Scripts/wifi_suspend.js,type=event,event-name=network-changed,control-api=true
