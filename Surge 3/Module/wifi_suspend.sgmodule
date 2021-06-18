@@ -1,4 +1,4 @@
-#!name=Wifi
+#!name=wifi suspend
 #!desc=指定wifi不进行代理，但是Script与Module生效
 
 [Script]
