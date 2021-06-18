@@ -1,6 +1,6 @@
 /* wifi_proxy change
 [Script]
-wifi_suspend = debug=1,script-path=https://raw.githubusercontent.com/u4one/koolclash-SRC-IP-rules/master/wifi_suspend.js,type=event,event-name=network-changed,control-api=true
+wifi_suspend = debug=1,script-path=https://raw.githubusercontent.com/u4one/Rules/master/Surge%203/Scripts/wifi_suspend.js,type=event,event-name=network-changed,control-api=true
 PS:记得自己修改WIFI名称
 主要功能:指定Wi-Fi(路由器翻)下,Surge使用直连模式,其他网络下Surge使用规则模式
 虽然设置SSID可以达到基本相同功能
