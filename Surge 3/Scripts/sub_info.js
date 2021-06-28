@@ -22,7 +22,7 @@ sub_info = type=http-request,pattern=http://t\.tt,script-path=https://raw.github
   let usage = getDataUsage(info);
   let used = bytesToSize(usage.download + usage.upload);
   let total = bytesToSize(usage.total);
-  let expire = usage.expire == undefined ? '' : '|'
+  let expire = usage.expire == undefined ? '' : '|' + formatTimestamp(usage.expire * 1000)
   let http = "http, localhost, 6152";
   let body = `${used}/${total}${expire} = ${http}`;
     $done({response: {body}});
@@ -49,4 +49,13 @@ function bytesToSize(bytes) {
     sizes = ['B','KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
     i = Math.floor(Math.log(bytes) / Math.log(k));
     return (bytes / Math.pow(k, i)).toFixed(2) + sizes[i];
+}
+
+function formatTimestamp( timestamp ) {
+    var dateObj = new Date( timestamp );
+    var year = dateObj.getYear() + 1900;
+    var month = dateObj.getMonth() + 1;
+    month = month < 10 ? '0' + month : month
+    var day = dateObj.getDate();
+    return year +"-"+ month +"-" + day;      
 }
