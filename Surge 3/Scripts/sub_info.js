@@ -1,6 +1,5 @@
 /*
-fork @mieqq
-Surge配置参考注释，感谢@asukanana,感谢@congcong.
+fork @mieqq  Surge配置参考注释，感谢@asukanana,感谢@congcong.
 
 示例↓↓↓ 
 ----------------------------------------
