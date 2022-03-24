@@ -5,3 +5,6 @@
 DOMAIN-SUFFIX,wowhead.com
 DOMAIN-SUFFIX,warcraftlogs.com
 DOMAIN-SUFFIX,rpglogs.com
+
+# > Crypto Currency Special List
+DOMAIN-SUFFIX,opensea.io
