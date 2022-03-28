@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,rpglogs.com
 
 # > Crypto Currency Special List
 DOMAIN-SUFFIX,opensea.io
+
+# > Other Special List
+DOMAIN-SUFFIX,memes.tw
