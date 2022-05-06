@@ -21,6 +21,14 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordapp.page.link
 
+# > Notion Special List
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+
 # > Other Special List
 DOMAIN-SUFFIX,memes.tw
 DOMAIN-SUFFIX,justwatch.com
+
