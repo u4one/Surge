@@ -1,7 +1,0 @@
-#!name=Lightroom VIP Block
-#!desc=Lightroom VIP Block
-
-#lightroom
-http-response ^https:\/\/photos\.adobe\.io\/v2\/accounts* script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/Lightroom.js
-
-hostname = %APPEND% photos.adobe.io
