@@ -4,9 +4,9 @@
 
 > **In the following disclaimer:**
 
-> The "Surge conf/sgmodule/script" refers specifically to the open source scripts and rules in https://github.com/
+> The "Surge conf/sgmodule/script" refers specifically to the open source scripts and rules in https://github.com/u4one/Surge/tree/master
 
-> The "**u4one**" refers specifically to the author and owner in https://github.com/
+> The "**u4one**" refers specifically to the author and owner in https://github.com/u4one/Surge/tree/master
 
 
 ### Decrypt
