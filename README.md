@@ -1,4 +1,4 @@
-# Surge conf/sgmodule/script collected and adapted by Nos.
+# Surge conf/sgmodule/script collected and adapted by u4one.
 
 ## Disclaimer
 
