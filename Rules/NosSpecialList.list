@@ -31,3 +31,7 @@ DOMAIN-SUFFIX,notion.so
 # > Other Special List
 DOMAIN-SUFFIX,memes.tw
 DOMAIN-SUFFIX,justwatch.com
+
+# > ChatGPT Special List
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,openai.com
