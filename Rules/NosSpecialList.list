@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,justwatch.com
 # > ChatGPT Special List
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,openai.com
+
+# > Ai List
+DOMAIN-SUFFIX,civitai.com
