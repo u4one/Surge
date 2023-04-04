@@ -48,5 +48,8 @@ IP-CIDR,35.192.0.0/12,no-resolve
 IP-CIDR,35.208.0.0/13,no-resolve
 IP-CIDR,35.224.0.0/16,no-resolve
 
-# > Ai List
+# > Ai Special List
 DOMAIN-SUFFIX,civitai.com
+
+# > Arc Browser Special List
+DOMAIN-SUFFIX,arc.net
