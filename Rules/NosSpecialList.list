@@ -50,6 +50,8 @@ IP-CIDR,35.224.0.0/16,no-resolve
 
 # > Ai Special List
 DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,poe.com
+
 
 # > Arc Browser Special List
 DOMAIN-SUFFIX,arc.net
