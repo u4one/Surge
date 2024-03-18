@@ -53,6 +53,8 @@ IP-CIDR,35.224.0.0/16,no-resolve
 # > Ai Special List
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,poe.com
+HOST-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,,perplexity.ai
 
 # > Arc Browser Special List
 DOMAIN-SUFFIX,arc.net
@@ -73,7 +75,3 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
-
-# > Perplexity Special List
-HOST-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,,perplexity.ai
