@@ -57,7 +57,6 @@ DOMAIN-SUFFIX,poe.com
 # > Arc Browser Special List
 DOMAIN-SUFFIX,arc.net
 
-
 # > TikTok Special List
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
@@ -74,3 +73,7 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
+
+# > Perplexity Special List
+HOST-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,,perplexity.ai
