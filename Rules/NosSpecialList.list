@@ -53,7 +53,6 @@ IP-CIDR,35.224.0.0/16,no-resolve
 # > Ai Special List
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,poe.com
-HOST-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,,perplexity.ai
 
 # > Arc Browser Special List
