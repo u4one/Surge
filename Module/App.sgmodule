@@ -5,7 +5,8 @@
 [Script]
 # 彩云天气
 # hostname = *.cyapi.cn, *.caiyunapp.com, adx.sogaha.cn
-彩云天气 = type=http-response,pattern=^https?:\/\/(biz|wrapper)\.cyapi\.cn\/(.+\/(user.+|visitors|activity)|p\/v\d\/vip_info),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyun.js
+彩云天气-SVIP会员 = type=http-response,pattern=^https?:\/\/(biz|wrapper|starplucker)\.(cyapi|caiyunapp)\.(cn|com)\/(.+\/(user\?app_name|activity\?app_name|visitors|operation\/banners)|p\/v\d\/(vip_info|user_info)),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyuntianqi.js
+彩云天气-SVIP地图 = type=http-request,pattern=^https?:\/\/(api|wrapper)\.(cyapi|caiyunapp)\.(cn|com)\/v\d\/(satellite|nafp\/origin_images),requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/caiyuntianqi.js
 
 #************************************#
 # Emby(解锁播放权限)
@@ -45,7 +46,12 @@ Fimo复古相机 = type=http-response,pattern=^https?:\/\/server\.(yoyiapp|zbisq
 #************************************#
 # Xmind-思维导图
 # hostname = www.xmind.*
-Xmind-思维导图 = type=http-response,pattern=^https?:\/\/www\.xmind\.(cn|net|app)\/.+\/devices,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/Xmind.js
+Xmind = type=http-response,pattern=^https?:\/\/(?:www\.)?xmind\..*\/.+\/(devices|token\/.+),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/Xmind.js
+
+#************************************#
+# 墨迹天气
+# hostname = *.api.moji.com
+墨迹天气 = type=http-response,pattern=^https?:\/\/.*\.api\.moji\.com\/(sns\/json\/profile\/get_info_.+|json\/member_new\/homepage_info.+|user\/personal\/json\/profile_.+|flycard\/novice|shortvideo\/.+),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/mojitianqi.js
 
 #************************************#
 # Notability
@@ -56,6 +62,11 @@ Notability = type=http-response,pattern=^https?:\/\/notability\.com\/(global|sub
 # 泼辣修图
 # hostname = api.polaxiong.com
 泼辣修图 = type=http-response,pattern=^https?:\/\/api\.polaxiong\.com\/.+\/payments\/(profiles\/.+\/subscription|appleiap\/receipts\/confirmation),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/pola.js
+
+#************************************#
+# 牛津高阶词典第十版
+# hostname = oxfordx.cp.com.cn
+牛津高阶词典 = type=http-response,pattern=^https:\/\/oxfordx\.cp\.com\.cn\/api\/pay\/apple_notify,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/niujin10.js
 
 #************************************#
 [MITM]
