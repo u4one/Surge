@@ -1,0 +1,27 @@
+{
+    "name": "Nos icon",
+    "icons": [
+     { "name": "Proxy", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png"},
+     { "name": "Netflix", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Netflix.png"},
+     { "name": "DisneyPlus", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Disney+_1.png"},
+     { "name": "HBOMax", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/HBO_Max.png"},
+     { "name": "ChinaMedia", "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DomesticMedia.png"},
+     { "name": "GlobalMedia", "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png"},
+     { "name": "Speedtest", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Speedtest.png"},
+     { "name": "Microsoft", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Microsoft.png"},
+     { "name": "Scholar", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Scholar.png"},
+     { "name": "CryptoBitcoin", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Bitcoin.png"},
+     { "name": "Steam", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Steam.png"},
+     { "name": "Domestic", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Domestic.png"},
+     { "name": "Apple", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/Apple.png"},
+     { "name": "Adblock", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/adblock.png"},
+     { "name": "Final", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Final.png"},
+     { "name": "IEPL", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/IEPL.png"},      
+     { "name": "GIA", "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/GIA.png"},      
+     { "name": "HK", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Hongkong.png"},      
+     { "name": "SG", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/singapore(1).png"},       
+     { "name": "TW", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/taiwan(3).png"},
+     { "name": "US", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/US.png"},
+     { "name": "direct", "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/direct.png"}, 
+    ]
+}
