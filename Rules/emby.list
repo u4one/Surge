@@ -1,0 +1,18 @@
+# NAME: Nos Emby List
+# AUTHOR: Nos
+
+# > 1111
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,hcemby.emby.moe
+DOMAIN-SUFFIX,cent.envy.moe
+DOMAIN-SUFFIX,envy.moe
+
+# > micu
+DOMAIN-SUFFIX,micu.hk
+
+# > Emby rest
+DOMAIN-SUFFIX,emby.rest
+
+# > iris
+DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,iris.niceduck.lol
