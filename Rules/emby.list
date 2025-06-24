@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,micu.hk
 # > Emby rest
 DOMAIN-SUFFIX,emby.rest
 
-# > iris
+# > Iris
 DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,iris.niceduck.lol
+
+# > OMEGA TV
+DOMAIN-SUFFIX,204cloud.com
+DOMAIN-SUFFIX,o.204cloud.com
