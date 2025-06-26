@@ -4,4 +4,4 @@
 # > OMEGA TV
 DOMAIN-SUFFIX,204cloud.com
 DOMAIN-SUFFIX,o.204cloud.com
-IP-CIDR,129.204.227.118/24,no-resolve
+IP-CIDR,129.204.227.118/32,no-resolve
