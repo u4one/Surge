@@ -5,3 +5,6 @@
 DOMAIN-SUFFIX,204cloud.com
 DOMAIN-SUFFIX,o.204cloud.com
 IP-CIDR,129.204.227.118/32,no-resolve
+
+# > 1111普通服
+DOMAIN-SUFFIX,pthc.emby.moe
