@@ -8,3 +8,6 @@ IP-CIDR,129.204.227.118/32,no-resolve
 
 # > Youno
 DOMAIN-SUFFIX,younoyes.com
+
+# > 115cdn
+DOMAIN-SUFFIX,115cdn.de
