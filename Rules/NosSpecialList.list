@@ -74,3 +74,6 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
+
+# > Nos Work Special List
+DOMAIN-SUFFIX,mobvista.com
