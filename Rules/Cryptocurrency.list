@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,opensea.io
 
 # > polymarket List
 DOMAIN-SUFFIX,polymarket.com
+DOMAIN-KEYWORD,polymarket
+PROCESS-NAME,polymarket
+USER-AGENT,polymarket
