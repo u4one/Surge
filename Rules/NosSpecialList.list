@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,wowhead.com
 DOMAIN-SUFFIX,warcraftlogs.com
 DOMAIN-SUFFIX,rpglogs.com
 
-# > Crypto Currency Special List
-DOMAIN-SUFFIX,opensea.io
-
 # > Discord Special List
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
@@ -31,29 +28,6 @@ DOMAIN-SUFFIX,notion.so
 # > Other Special List
 DOMAIN-SUFFIX,memes.tw
 DOMAIN-SUFFIX,justwatch.com
-
-# > OpenAi Special List
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN,cdn.auth0.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-IP-CIDR,104.196.64.0/18,no-resolve
-IP-CIDR,35.224.16.0/20,no-resolve
-IP-CIDR,35.192.0.0/12,no-resolve
-IP-CIDR,35.208.0.0/13,no-resolve
-IP-CIDR,35.224.0.0/16,no-resolve
-
-# > Ai Special List
-DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,perplexity.ai
 
 # > Arc Browser Special List
 DOMAIN-SUFFIX,arc.net
