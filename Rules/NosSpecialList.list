@@ -52,12 +52,4 @@ USER-AGENT,TikTok*
 # > Nos Work Special List
 DOMAIN-SUFFIX,mobvista.com
 
-# > Polymarket Special List
-DOMAIN-SUFFIX,polymarket.com
-DOMAIN-SUFFIX,polymarket.xyz
-DOMAIN-SUFFIX,clob.polymarket.com
-DOMAIN-SUFFIX,gamma-api.polymarket.com
-DOMAIN-SUFFIX,data-api.polymarket.com
-DOMAIN-SUFFIX,bridge.polymarket.com
-DOMAIN-SUFFIX,ws-subscriptions-clob.polymarket.com
-DOMAIN-SUFFIX,ws-live-data.polymarket.com
+
