@@ -14,3 +14,8 @@ DOMAIN-SUFFIX,115cdn.de
 DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,iris.niceduck.lol
 
+# > UHD
+DOMAIN,www.uhdnow.com,DIRECT
+DOMAIN,smart.uhdnow.com,DIRECT
+DOMAIN,speed.uhdnow.com,DIRECT
+DOMAIN-SUFFIX,uhdnow.online,DIRECT
