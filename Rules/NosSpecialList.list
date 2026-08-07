@@ -52,7 +52,7 @@ USER-AGENT,TikTok*
 # > Nos Work Special List
 DOMAIN-SUFFIX,mobvista.com
 
-# Telegram bot API fallback (2026-08-03)
+# > Telegram bot API fallback (2026-08-03)
 IP-CIDR,149.154.160.0/20
 IP-CIDR,91.108.4.0/22
 IP-CIDR,91.108.8.0/21
@@ -63,5 +63,11 @@ IP-CIDR,185.76.151.0/24
 IP-CIDR,108.160.165.0/24
 IP-CIDR,108.160.166.0/24
 IP-CIDR,199.59.149.0/24
+
+# > UHD Special List
+DOMAIN,global.uhdnow.com
+DOMAIN,v1.uhdnow.com
+DOMAIN,v1-vod1.uhdnow.com
+DOMAIN,v1-vod2.uhdnow.com
 
 
